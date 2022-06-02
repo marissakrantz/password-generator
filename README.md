@@ -8,4 +8,4 @@ The password is then generated into a text box on screen and includes at least o
 Navigate to: https://marissakrantz.github.io/password-generator/
 
 # Screenshot of Password Generator
-![Screenshot of Password Generator](./develop/image/Password-Generator.png)
+
